@@ -12,3 +12,9 @@ https://gist.github.com/rxaviers/7360908
 
 ## Web Design
 https://getwaves.io/
+
+## Typescript
+https://www.typescriptlang.org/play
+
+## General coding
+https://jsonplaceholder.typicode.com/
