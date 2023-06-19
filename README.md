@@ -24,7 +24,8 @@ List of useful tools for daily programming:
 ## General coding
 [Online code editor](https://replit.com/~)\
 [Sample JSON data](https://jsonplaceholder.typicode.com/)\
-[Sample standard Gitignore](https://www.jcchouinard.com/gitignore-template/)
+[Sample standard Gitignore](https://www.jcchouinard.com/gitignore-template/)\
+[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Web Design
 [Abstract waves SVG](https://getwaves.io/)\
