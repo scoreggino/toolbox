@@ -28,6 +28,7 @@ List of useful tools for daily programming:
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Web Design
+[Abstract shaoes generator](https://app.haikei.app/)\
 [Abstract waves SVG](https://getwaves.io/)\
 [Custom radio buttons design](https://freefrontend.com/css-radio-buttons/)
 
