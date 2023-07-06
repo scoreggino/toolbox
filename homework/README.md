@@ -9,3 +9,4 @@ https://sentry.io/answers/npm-difference-between-dependencies/
 
 https://guidaphp.it/base/intro
 https://www.mrw.it/php/introduzione-php_9480.html
+https://www.freecodecamp.org/news/how-to-set-up-a-typescript-project-67b427114884/
